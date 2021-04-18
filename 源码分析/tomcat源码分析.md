@@ -6,6 +6,10 @@
 
 由于水平有限，更多的是分析执行的流程。很多细节可能未能分析到。
 
+注：本篇的分析是我源码阅读时的记录，相对简略。
+
+在[tomcat源码分析](https://blog.csdn.net/weixin_47327232/category_10948734.html)中针对tomcat的执行步骤，对每个组件的执行流程做了一个更为详细的叙述。
+
 ## bootstrap 的main执行流程
 
 * bootstrap.init();
